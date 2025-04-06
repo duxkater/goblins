@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiches de villes/Fort-aux-oies.md",
+                "file": "Règles/05 - Le MJ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fort-aux-oies"
+              "title": "05 - Le MJ"
+            }
+          },
+          {
+            "id": "4a4385145d1e8530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documents/Actions de gobelins.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Actions de gobelins"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiches de villes/Fort-aux-oies.md",
+                "file": "Documents/Actions de gobelins.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Fort-aux-oies"
+              "title": "Plan de Actions de gobelins"
             }
           },
           {
@@ -179,13 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e88b3a0ba5ce64f",
+  "active": "8fb97c0ea1c7d30e",
   "lastOpenFiles": [
+    "Documents/Fiche de clan.md",
+    "Fiches de villes/Fort-aux-oies.md",
     "Règles/05 - Le MJ.md",
     "Règles/02 - Préparation.md",
-    "Fiches de villes/Fort-aux-oies.md",
     "Documents/Malédictions de clan.md",
-    "Documents/Fiche de clan.md",
     "Documents/Actions de gobelins.md",
     "Règles/04 - Phases de jeu.md",
     "Règles/03 - Jouer au jeu.md",

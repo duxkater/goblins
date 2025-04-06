@@ -52,3 +52,13 @@ Voici la liste des actions de MJ :
 - Retournez les actions des PJ contre eux.
 - Séparez les PJ.
 - Infligez des dégâts.
+## Les fiches de ville
+
+Le travail principal du MJ est de fluidifier la conversation en respectant ses objectifs. Pour ce qui est du contenu de la conversation, il sera dicté par **les fiches de ville**.
+Une fiche de ville contient toutes les informations dont a besoin le MJ pour mener une partie.
+On y trouve : 
+- **le nom de la ville**
+- un emplacement vide pour y entrer **la faction** à laquelle elle appartient.
+- **Sa taille**, qui sert à déterminer la taille du compteur de repérage, ainsi qu'a donner une idée approximative du genre de lieu que les joueurs souhaitent attaquer (un hameau, une cité, une capitale ...)
+- **Plusieurs impressions** à utiliser de temps en temps pour donner aux gobelins-joueurs une idée de l'ambiance de la ville, et ajouter de la couleur aux descriptions.
+- **Les indices**, présentés sous forme de liste. Chaque indice peut être révélé au groupe lorsqu'une action le demande (généralement l'action de repérage)

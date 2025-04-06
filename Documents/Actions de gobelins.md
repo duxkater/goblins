@@ -10,11 +10,9 @@ Sur 7-9, choisis 1 :
 - Le dieu de ton élément semble mécontent. Il faudra le contenter
 - Ton sort fonctionne un peu mieux que prévu, et provoque une catastrophe. Décris-la.
 - Ton talent pour la magie attire une attention malvenue
-
 ## Futé
 
 Depuis toujours, tu as un peu plus de jugeote que tes camarades. Tu sais lire et écrire le dialecte humain et une autre langue de ton choix. De plus, quand tu participes à répondre à la question "Comment allons nous attaquer cet endroit ?", tu peux demander au MJ un indice qui n’a pas été découvert lors de la phase de repérage. Si tous les indices ont été découverts, choisis un indice, il pourra être utilisé deux fois.
-
 ## Baraqué
 
 Tu es fort, très fort. En fait, tu es bien plus musclé que tes compagnons de clan. Tu gagnes +1 à Cogner. Tu peux également utiliser les armes et armures des humains.
