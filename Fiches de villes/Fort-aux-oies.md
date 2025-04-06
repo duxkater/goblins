@@ -8,6 +8,7 @@
 - Des murailles effondrées, noyées sous les ronces
 - Une cloche d’alarme rouillée qui n’a pas sonné depuis des années
 - Des villageois souriants, qui parlent doucement… trop doucement
+- Un vieil arbre au milieu de la place, ses racines tordues soulèvent les pavés.
 
 ### Indices :
 
