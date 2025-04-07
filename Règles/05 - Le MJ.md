@@ -29,10 +29,7 @@ Le clan doit survivre à ce monde qui lui est hostile. Et ses actions auront des
 - Immergez-vous dans le fantastique.
 - Adressez-vous aux personnages, pas aux joueurs
 - Ne désignez pas vos actions par leur nom.
-- Donnez vie à chaque monstre.
-- Nommez chaque personne.
 - Pensez « danger ».
-- Pensez aussi hors-champ.
 ## Actions
 
 Les actions de MJ se déclenchent dans 3 cas : 
@@ -43,6 +40,7 @@ Les actions de MJ se déclenchent dans 3 cas :
 Voici la liste des actions de MJ :
 - Montrez des signes d’une menace à venir.
 - Révélez une vérité indésirable.
+- Faites intervenir la malédiction du clan.
 - Indiquez aux PJ les conditions ou les conséquences de leurs actions.
 - Offrez une opportunité aux PJ, avec ou sans coût.
 - Mettez un camarade-gobelin en danger.

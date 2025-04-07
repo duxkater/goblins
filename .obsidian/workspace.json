@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Règles/05 - Le MJ.md",
+                "file": "Règles/04 - Phases de jeu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - Le MJ"
+              "title": "04 - Phases de jeu"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Règles/05 - Le MJ.md",
+                "file": "Règles/04 - Phases de jeu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 05 - Le MJ"
+              "title": "Plan de 04 - Phases de jeu"
             }
           },
           {
@@ -195,13 +195,13 @@
   },
   "active": "8fb97c0ea1c7d30e",
   "lastOpenFiles": [
-    "Règles/04 - Phases de jeu.md",
     "Règles/05 - Le MJ.md",
+    "Règles/04 - Phases de jeu.md",
+    "Documents/Fiche de clan.md",
+    "Documents/Actions de gobelins.md",
     "Fiches de villes/Fort-aux-oies.md",
     "Règles/03 - Jouer au jeu.md",
     "Documents/Fiche de gobelin-joueur.md",
-    "Documents/Actions de gobelins.md",
-    "Documents/Fiche de clan.md",
     "Règles/02 - Préparation.md",
     "Documents/Malédictions de clan.md",
     "Documents",
