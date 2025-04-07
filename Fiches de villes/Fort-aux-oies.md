@@ -11,6 +11,7 @@
 - Un vieil arbre au milieu de la place, ses racines tordues soulèvent les pavés.
 - Une petite place du marché animée, plusieurs paysans vendant leurs récoltes.
 - Les enfants ont dessiné sur les murs d'une maison à l'abandon.
+- Des champs de lavande délimités par des petits murets en pierre blanche.
 ### Lieux :
 
 - **La place centrale du village** : Une placette ronde au sol pavé, un arbre centenaire au centre, un petit marché organisé autour. Beaucoup de va-et-vient.
