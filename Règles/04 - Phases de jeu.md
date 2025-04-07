@@ -35,7 +35,6 @@ Plus le repérage dure, plus les chances de se faire repérer augmentent. Osez-v
 Lorsque le compteur arrive à son terme, les gobelins doivent se retirer, plus ou moins précipitamment. Leur grabuge a été suffisamment remarqué par les autorités et ils sont recherchés.
 
 Certaines actions peuvent réduire le compteur *(ex : faire diversion, éliminer un guetteur)*. Si un joueur considère que son action est susceptible de faire baisser le compteur, il le mentionne au MJ qui accepte ou non.
-
 ## Phase de concertation
 
 *(phase courte)*
@@ -48,7 +47,7 @@ C’est le moment où tout se joue : les gobelins-joueurs sont-ils assez malins 
 
 Pour y répondre, ils ont à leur disposition tous les indices récoltés lors de la phase de repérage. Ils ne sont pas obligés d’utiliser tous les indices, mais plus ils en utilisent, plus simple sera la tâche dans la phase suivante.
 
-Ils peuvent également demander conseil à un ancien du clan, s' ils ont un lien avec l’un d’entre eux. Il pourra leur fournir un indice supplémentaire qui n’a pas été découvert, ou inventera un indice que lui ont soufflé les esprits. (à la discrétion du MJ).
+Ils peuvent également demander conseil à un ancien du clan, s'ils ont un lien avec l’un d’entre eux. Il pourra leur fournir un indice supplémentaire qui n’a pas été découvert, ou inventera un indice que lui ont soufflé les esprits. (à la discrétion du MJ).
 
 Les joueurs ont également la possibilité de consommer 1 point de butin de leur clan pour obtenir un indice supplémentaire. Ils ont probablement soudoyé un garde peu regardant.
 

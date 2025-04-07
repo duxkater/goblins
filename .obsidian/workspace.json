@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a664c732a17d8f5d",
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Actions de gobelins.md",
+                "file": "Règles/04 - Phases de jeu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Actions de gobelins"
+              "title": "Plan de 04 - Phases de jeu"
             }
           },
           {
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a4385145d1e8530",
+  "active": "8fb97c0ea1c7d30e",
   "lastOpenFiles": [
     "Fiches de villes/Fort-aux-oies.md",
     "Documents/Actions de gobelins.md",
