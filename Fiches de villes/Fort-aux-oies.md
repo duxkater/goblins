@@ -36,7 +36,7 @@
 ### Avantages à débloquer :
 
 - **Tome interdit** : Permet parfois d’invoquer un petit golem de terre. Attention à n’oublier aucun mot.
-- **Sérum de vérité** : Un flacon de liquide doré. Une fois par session, forcez un PNJ à dire la vérité.
+- **Sérum de vérité** : Un flacon de liquide doré. Une fois par phase de repérage, forcez un PNJ qui la boit à vous révéler un indice.
 - **Élevage d’oies dressées** : Les gobelins capturent quelques oies du village. Une fois par session, elles peuvent servir de diversion.
 ### Twist (MJ uniquement) :
 

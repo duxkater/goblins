@@ -19,7 +19,7 @@ Lors de cette phase, suivez les étapes suivantes, dans l’ordre :
 - Le groupe choisit la prochaine ville à cibler.
 - Le MJ crée le compteur de repérage. Il a la même valeur que la taille de la ville ciblée auquel on soustrait le niveau d’alerte de la faction à qui appartient la ville, avec un minimum de 0.  
     *Par ex : pour une ville de taille 4 avec une faction en alerte à 2, le compteur de répérage sera de 4 - 2 = 2.*
-- Le clan peut dépenser 1 richesse pour augmenter le compteur de repérage de 1 point *(Les gobelins ont pu soudoyer des gardes, graisser la patte à un guetteur …)*
+- Le clan peut dépenser 1 richesse pour augmenter le compteur de repérage de 1 point *(Les gobelins ont pu soudoyer des gardes, graisser la patte à un guetteur …)*, autant de fois qu'il le désire, dans la limite des points de richesse du clan.
 - Le clan dépense 1 nourriture pour chaque gobelin-joueur participant à l’assaut à venir. Un gobelin qui ne peut pas se nourrir aura -1 continu sur tous ses jets jusqu'à la prochaine phase de victoire.
 ## Phase de repérage
 
@@ -75,7 +75,7 @@ Quand le compteur de raid arrive à son terme, l’assaut est terminé, les trou
 
 (phase courte)
 
-Lors de cette phase, les gobelins savourent un repos bien mérité et comptent leurs gains.
+Lors de cette phase, les gobelins savourent leur victoire et comptent leurs gains.
 
 Chaque gobelin transfère le total de son compteur de butin à celui du clan.
 

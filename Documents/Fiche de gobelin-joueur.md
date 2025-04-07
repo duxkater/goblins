@@ -2,11 +2,11 @@
 ### **Gri-gri :** 
 
 ### **Caractéristiques** :
-- Cogner : 
-- Foncer : 
-- Eviter : 
-- Observer : 
-- Influencer : 
+- [ ] Cogner     (Condition :                    )
+- [ ] Foncer      (Condition :                    )
+- [ ] Eviter        (Condition :                    )
+- [ ] Observer   (Condition :                    )
+- [ ] Influencer  (Condition :                    )
 ### Expérience :
 
 *Lorsque vous ratez un jet d'action, cochez 1. A 6, cochez un avancement et repartez à 0 d'XP.*

@@ -33,7 +33,6 @@ Le clan doit survivre à ce monde qui lui est hostile. Et ses actions auront des
 - Nommez chaque personne.
 - Pensez « danger ».
 - Pensez aussi hors-champ.
-
 ## Actions
 
 Les actions de MJ se déclenchent dans 3 cas : 
@@ -62,3 +61,17 @@ On y trouve :
 - **Sa taille**, qui sert à déterminer la taille du compteur de repérage, ainsi qu'a donner une idée approximative du genre de lieu que les joueurs souhaitent attaquer (un hameau, une cité, une capitale ...)
 - **Plusieurs impressions** à utiliser de temps en temps pour donner aux gobelins-joueurs une idée de l'ambiance de la ville, et ajouter de la couleur aux descriptions.
 - **Les indices**, présentés sous forme de liste. Chaque indice peut être révélé au groupe lorsqu'une action le demande (généralement l'action de repérage)
+## Mener la phase de repérage
+
+La phase de repérage se déroule comme un jeu de rôle classique. Les joueurs décrivent le comportement de leur personnage, et vous décrivez en retour comment réagit le monde qui les entoure.
+
+Toutefois, gardez à l'esprit que c'est une phase d'infiltration, qui doit être pleine de suspense et de dangers. Les gobelins-joueurs ne sont pas chez eux, et ils doivent le sentir. Les habitants des villes fuient devant eux, donnent l'alarme, voir même prennent l'arme de fortune la plus proche pour s'en débarrasser.
+
+Cochez les indices que les joueurs découvrent au fur et à mesure sans trop vous soucier de ce qu'ils vont en faire. C'est leur problème.
+## Mener la phase de raid
+
+Pendant cette phase, elle aussi jouée à la manière d'un jeu de rôle classique, gardez en tête que le niveau de chaos et d'alerte de la ville augmente avec le compteur de raid.
+
+Le début de cette phase devrait être surprenant pour les habitants de la ville. Ils sont pris au dépourvu et probablement dépassés par les évènements. Puis à mesure que le compteur augmente, les habitants se reprennent, s'organisent, s'équipent, et les choses deviennent compliquées pour les gobelins.
+
+C'est lors de cette phase que les joueurs auront l'occasion de débloquer les avantages de chaque ville, uniquement si ils utilisent l'indice lié, et que la fiction le permet.

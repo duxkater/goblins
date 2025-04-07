@@ -16,6 +16,12 @@ Pour représenter les forces et faiblesses de votre gobelin, le jeu utilise des 
 
 Votre gobelin évolue au fil des raids, et devient de plus en plus expérimenté. Pour représenter cela, à chaque fois que vous échouez un jet d'action, vous pouvez cocher 1PX. Au bout de 6PX, vous pouvez cocher un avancement et vider votre total d'XP.
 Quand vous avez coché tous vos avancements, il est temps pour votre gobelin de prendre sa retraite. Vous pouvez en créer un nouveau ou choisir un autre gobelin du clan.
+## Conditions
+
+Les conditions représentent l'état physique de votre gobelin. Elles arrivent généralement lors d'un combat ou d'une action particulièrement dangereuse.
+Quand votre gobelin reçoit une condition, marquez la à coté d'une de vos caractéristique qui n'en a pas encore. Choisissez une très courte description de cette condition (*entaille, coup sur la tête, chute ...* ) 
+Tous les jets avec cette caractéristique se feront avec -1 jusqu'à ce que cette condition disparaisse.
+Si toutes les caractéristiques de votre gobelin sont marquées d'une condition, il est trop épuisé pour continuer le combat et doit se retirer jusqu'à la prochaine phase courte. (phase de concertation ou phase de victoire)
 ## Les compteurs
 
 Un compteur est une manière simple de représenter une menace qui grandit, le temps qui passe ou des ressources qui s'épuisent. Il peut être représenté par une barre comportant un certain nombre de cases à cocher. Par exemple, voici un compteur de taille 6 :
@@ -49,12 +55,18 @@ Quand un gobelin-joueur cherche un indice dans les environs lors de la phase de 
 
 - Sur 10+ : il trouve un indice. Le MJ lui décrira.
 - Sur 7-9 : il trouve un indice mais le MJ lui décrit également une complication.
+## Action de diversion
+
+Quand un gobelin-joueur tente de faire oublier sa présence après s'être fait repérer lors de la phase de repérage, il lance 2d6 + Éviter.
+
+- Sur 7+, ses poursuivants perdent sa trace.
+- Sur 10+, il trouve un indice.
 ### Action de fouille
 
 Quand un gobelin-joueur fouille un lieu à la recherche de butin lors de la phase de raid, il lance 2d6+Observer.
 
-- Sur 10+ : il trouve quelque chose d'intéressant. Le MJ lui décrit sa trouvaille. Il ajoute 3 à son compteur personnel de butin.
-- Sur 7-9 : Il trouve quelque chose qui a peu de valeur. Le MJ lui décrit sa trouvaille. Il ajoute 1 à son compteur personnel de butin. De plus il choisit 1 entre :
+- Sur 10+ : il trouve quelque chose d'intéressant. Le MJ lui décrit sa trouvaille. Il ajoute 3 au compteur de richesse du clan.
+- Sur 7-9 : Il trouve quelque chose qui a peu de valeur. Le MJ lui décrit sa trouvaille. Il ajoute 1 au compteur de richesse du clan. De plus il choisit 1 entre :
 	- cout
 	- danger
 	- suspicion
