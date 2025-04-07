@@ -12,6 +12,10 @@ Pour représenter les forces et faiblesses de votre gobelin, le jeu utilise des 
 - **Éviter :** lorsque votre gobelin doit s'infiltrer, espionner, dissimuler quelque chose …
 - **Observer :** lorsque votre gobelin fouille un lieu, observe quelqu’un, cherche quelque chose …
 - **Influencer :** lorsque votre gobelin tente d’intimider, ment, tente de convaincre …
+## Avancement
+
+Votre gobelin évolue au fil des raids, et devient de plus en plus expérimenté. Pour représenter cela, à chaque fois que vous échouez un jet d'action, vous pouvez cocher 1PX. Au bout de 6PX, vous pouvez cocher un avancement et vider votre total d'XP.
+Quand vous avez coché tous vos avancements, il est temps pour votre gobelin de prendre sa retraite. Vous pouvez en créer un nouveau ou choisir un autre gobelin du clan.
 ## Les compteurs
 
 Un compteur est une manière simple de représenter une menace qui grandit, le temps qui passe ou des ressources qui s'épuisent. Il peut être représenté par une barre comportant un certain nombre de cases à cocher. Par exemple, voici un compteur de taille 6 :
