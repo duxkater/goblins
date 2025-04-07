@@ -16,7 +16,6 @@ Certaines phases sont plus courtes que d’autres, mais toutes sont importantes.
 La phase de repos, c’est un moment où les gobelins se vantent, se chamaillent et exhibent fièrement leur dernier trésor.
 Lors de cette phase, suivez les étapes suivantes, dans l’ordre :
 
-- Chaque gobelin-joueur décrit un objet qu’il a pioché dans le butin du clan, et en quoi cet objet lui sera utile pour le raid à venir. Cela consomme 1 butin du clan.
 - Le groupe choisit la prochaine ville à cibler.
 - Le MJ crée le compteur de repérage. Il a la même valeur que la taille de la ville ciblée auquel on soustrait le niveau d’alerte de la faction à qui appartient la ville, avec un minimum de 0.  
     *Par ex : pour une ville de taille 4 avec une faction en alerte à 2, le compteur de répérage sera de 4 - 2 = 2.*
