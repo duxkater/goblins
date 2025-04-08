@@ -55,7 +55,7 @@ Quand un gobelin-joueur cherche un indice dans les environs lors de la phase de 
 
 - Sur 10+ : il trouve un indice. Le MJ lui décrira.
 - Sur 7-9 : il trouve un indice mais le MJ lui décrit également une complication.
-## Action de diversion
+### Action de diversion
 
 Quand un gobelin-joueur tente de faire oublier sa présence après s'être fait repérer lors de la phase de repérage, il lance 2d6 + Éviter.
 
