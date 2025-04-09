@@ -4,10 +4,14 @@
 
 ### Impressions :
 
-- Un petit village côtier battu par les vents salés.
+- Un petit village côtier aux maisons blanches, battu par les vents salés.
 - Des barques brinquebalantes amarrées à un vieux quai en bois.
 - L’odeur persistante du poisson séché et de l’algue pourrissante.
 - Des pêcheurs méfiants qui parlent en chuchotant lorsqu’un étranger approche.
+- La peinture rongée par le sel d'une pancarte de taverne, autrefois joyeuse.
+- Le bois flotté et les algues échouées sur le rivage.
+- Un ponton au piliers en bois couverts de moules.
+- Des ruelles étroites aux maisons blanches, décorées de coquillages.
 ### Indices :
 
 - Un entrepôt abrite des tonneaux de harengs fermentés, immangeables mais inflammables (débloque Huile de poisson explosif)
