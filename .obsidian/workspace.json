@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "1e88b3a0ba5ce64f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Règles/05 - Le MJ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 - Le MJ"
+            }
+          },
+          {
             "id": "4a4385145d1e8530",
             "type": "leaf",
             "state": {
@@ -22,20 +36,21 @@
             }
           },
           {
-            "id": "1136524dffb33e51",
+            "id": "a565186fa356da36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Règles/04 - Phases de jeu.md",
+                "file": "Règles/02 - Préparation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 - Phases de jeu"
+              "title": "02 - Préparation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a664c732a17d8f5d",
@@ -197,17 +212,17 @@
   "lastOpenFiles": [
     "Fiches de villes/Fort-aux-oies.md",
     "Fiches de villes/Port Saumure.md",
-    "Règles/03 - Jouer au jeu.md",
-    "Règles/01 - Introduction.md",
-    "Documents/Fiche de clan.md",
-    "Documents/Malédictions de clan.md",
-    "Règles/04 - Phases de jeu.md",
     "Règles/05 - Le MJ.md",
-    "Documents/Actions de gobelins.md",
     "Documents/Fiche de gobelin-joueur.md",
     "Règles/02 - Préparation.md",
+    "Règles/04 - Phases de jeu.md",
+    "Règles/03 - Jouer au jeu.md",
+    "Documents/Actions de gobelins.md",
+    "Documents/Fiche de clan.md",
+    "Documents/Malédictions de clan.md",
     "Documents",
     "Fiches de villes",
+    "Règles/01 - Introduction.md",
     "Sans titre.md",
     "Règles",
     "Bienvenue.md"

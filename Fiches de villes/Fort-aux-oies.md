@@ -1,4 +1,3 @@
-### Nom : Fort-aux-oies
 ### Faction : 
 ### Taille : 6
 
