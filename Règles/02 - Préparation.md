@@ -1,4 +1,3 @@
-
 Avant de commencer à jouer, il vous faut remplir quelques étapes qui vous aideront à mettre en place un cadre cohérent et intéressant. La région dans laquelle se passera votre partie, mais aussi le clan et les gobelins qui le composent.
 ## Créer la région
 
@@ -21,9 +20,8 @@ Une fois que tout le monde a créé une faction, il est temps de créer le clan.
 Le clan, c’est un élément central de GOBLINS. Il a de fait sa propre fiche, sur laquelle les joueurs pourront voir les informations importantes qui le concerne, son avancement ainsi que les choses à améliorer.  
 Commencez par lui donner un nom. Si vous êtes en panne d’inspiration, prenez 2D12 et inspirez vous des tables aléatoires suivantes.
 
-|             |               |
-| ----------- | ------------- |
 | 1 - Sombre  | 1 - croc      |
+| ----------- | ------------- |
 | 2 - Morne   | 2 - lune      |
 | 3 - Griffe  | 3 - boyaux    |
 | 4 - Sang    | 4 - mâchoire  |
@@ -74,7 +72,7 @@ Les gobelins ne sont pas juste des pillards anonymes, ils font partie d’un cla
 
 Ces gobelins ne sont pas juste la pour décorer, ils ont une utilité mécanique :
 
-- **Le protégé :** Une fois par session, quand un événement menace ton protégé (un piège, un combat, un incendie…), tu peux décider de le sauver automatiquement en décrivant comment. En contrepartie, tu subis une conséquence décrite par le MJ.
+- **Le protégé :** Une fois par session, quand un événement menace ton protégé (un piège, un combat, un incendie…), tu peux décider de le sauver automatiquement en décrivant comment. En contrepartie, il te révèle un indice (en phase de repérage) ou un butin (en phase de raid)
 
 - **Le camarade :** Une fois par session, si tu décris comment ton camarade t’aide dans une action, décrit comment, et obtient un bonus de +1.
 
