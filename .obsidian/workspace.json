@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Règles/03 - Jouer au jeu.md",
+                "file": "Règles/04 - Phases de jeu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - Jouer au jeu"
+              "title": "04 - Phases de jeu"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Règles/03 - Jouer au jeu.md",
+                "file": "Règles/04 - Phases de jeu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 03 - Jouer au jeu"
+              "title": "Plan de 04 - Phases de jeu"
             }
           },
           {
@@ -208,10 +208,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a4385145d1e8530",
+  "active": "8fb97c0ea1c7d30e",
   "lastOpenFiles": [
-    "Règles/02 - Préparation.md",
     "Règles/03 - Jouer au jeu.md",
+    "Règles/02 - Préparation.md",
     "Règles/01 - Introduction.md",
     "Fiches de villes/Port Saumure.md",
     "Fiches de villes/Fort-aux-oies.md",
