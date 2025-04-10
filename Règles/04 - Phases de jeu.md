@@ -31,7 +31,6 @@ Pendant leur infiltration, les gobelins-joueurs doivent trouver des indices qui 
 
 **Les échecs lors des actions, ainsi que les erreurs dans la fiction augmentent à chaque fois le compteur de repérage de 1.**
 
-Plus le repérage dure, plus les chances de se faire repérer augmentent. Osez-vous pousser votre chance encore un peu, ou fuyez-vous avec ce que vous avez appris ?  
 Lorsque le compteur arrive à son terme, les gobelins doivent se retirer, plus ou moins précipitamment. Leur grabuge a été suffisamment remarqué par les autorités et ils sont recherchés.
 
 Certaines actions peuvent réduire le compteur *(ex : faire diversion, éliminer un guetteur)*. Si un joueur considère que son action est susceptible de faire baisser le compteur, il le mentionne au MJ qui accepte ou non.
