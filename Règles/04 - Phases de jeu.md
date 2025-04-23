@@ -19,7 +19,7 @@ Lors de cette phase, suivez les étapes suivantes, dans l’ordre :
 - Le groupe choisit la prochaine ville à cibler.
 - Chaque gobelin-joueur peut décocher une condition.
 - Le MJ crée le compteur de repérage. Il a la même valeur que la taille de la ville ciblée auquel on soustrait le niveau d’alerte de la faction à qui appartient la ville, avec un minimum de 0.  
-    *Par ex : pour une ville de taille 4 avec une faction en alerte à 2, le compteur de répérage sera de 4 - 2 = 2.*
+    *Par ex : pour une ville de taille 4 avec une faction en alerte à 2, le compteur de repérage sera de 4 - 2 = 2.*
 - Le clan peut dépenser 1 richesse pour augmenter le compteur de repérage de 1 point *(Les gobelins ont pu soudoyer des gardes, graisser la patte à un guetteur …)*, autant de fois qu'il le désire, dans la limite des points de richesse du clan.
 - Le clan dépense 1 nourriture pour chaque gobelin-joueur participant à l’assaut à venir. Un gobelin qui ne peut pas se nourrir aura -1 continu sur tous ses jets jusqu'à la prochaine phase de victoire.
 ## Phase de repérage
@@ -32,7 +32,6 @@ Pendant leur infiltration, les gobelins-joueurs doivent trouver des indices qui 
 
 **Les échecs lors des actions, ainsi que les erreurs dans la fiction augmentent à chaque fois le compteur de repérage de 1.**
 
-Plus le repérage dure, plus les chances de se faire repérer augmentent. Osez-vous pousser votre chance encore un peu, ou fuyez-vous avec ce que vous avez appris ?  
 Lorsque le compteur arrive à son terme, les gobelins doivent se retirer, plus ou moins précipitamment. Leur grabuge a été suffisamment remarqué par les autorités et ils sont recherchés.
 
 Certaines actions peuvent réduire le compteur *(ex : faire diversion, éliminer un guetteur)*. Si un joueur considère que son action est susceptible de faire baisser le compteur, il le mentionne au MJ qui accepte ou non.
