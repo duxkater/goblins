@@ -17,6 +17,7 @@ La phase de repos, c’est un moment où les gobelins se vantent, se chamaillent
 Lors de cette phase, suivez les étapes suivantes, dans l’ordre :
 
 - Le groupe choisit la prochaine ville à cibler.
+- Chaque gobelin-joueur peut décocher une condition.
 - Le MJ crée le compteur de repérage. Il a la même valeur que la taille de la ville ciblée auquel on soustrait le niveau d’alerte de la faction à qui appartient la ville, avec un minimum de 0.  
     *Par ex : pour une ville de taille 4 avec une faction en alerte à 2, le compteur de répérage sera de 4 - 2 = 2.*
 - Le clan peut dépenser 1 richesse pour augmenter le compteur de repérage de 1 point *(Les gobelins ont pu soudoyer des gardes, graisser la patte à un guetteur …)*, autant de fois qu'il le désire, dans la limite des points de richesse du clan.
