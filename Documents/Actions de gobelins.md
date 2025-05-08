@@ -16,8 +16,9 @@ Depuis toujours, tu as un peu plus de jugeote que tes camarades. Tu sais lire et
 ## Baraqué
 
 Tu es fort, très fort. En fait, tu es bien plus musclé que tes compagnons de clan. Tu gagnes +1 à Cogner. Tu peux également utiliser les armes et armures des humains.
+## Secret 
 
-Secret - Tu as un talent naturel pour te faire oublier, pour te glisser dans les ombres et trouver des passages la ou les autres n'en voient pas. Quand tu tentes de t'infiltrer dans un lieu, lance 2D6 + Éviter.
+Tu as un talent naturel pour te faire oublier, pour te glisser dans les ombres et trouver des passages la ou les autres n'en voient pas. Quand tu tentes de t'infiltrer dans un lieu, lance 2D6 + Éviter.
 
 Sur 10+, pose 2 questions
 
