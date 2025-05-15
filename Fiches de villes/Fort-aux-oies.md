@@ -20,12 +20,12 @@
 - **La taverne** : Une taverne en bois à l'entrée de la ville. Des rires s'en échappent. Il y a une écurie devant.
 ### Indices :
 
-- Un membre du temple sortant d'une porte dérobée, cachant hâtivement la clé sous un caillou.
+- - Un membre du temple sortant d'une porte dérobée, cachant hâtivement la clé sous un caillou.
 - La herse semble être faite d’un bois vermoulu et fatigué.
 - Le mur d’enceinte est abandonné par endroits. Des pans entiers sont effondrés.
-- Le chef du village cache un vieux grimoire derrière l’âtre de sa cheminée (débloque l’avantage **Tome interdit**)
+- - Le chef du village cache un vieux grimoire derrière l’âtre de sa cheminée (débloque l’avantage **Tome interdit**)
 - Les oies du village ne sont pas normales : elles surveillent et rapportent ce qu’elles voient (débloque l’avantage **Élevage d’oies dressées**)
-- Une étrange lueur émane de la cave de la taverne
+- - Une étrange lueur émane de la cave de la taverne
 - Les villageois ont peur de prononcer certains mots, comme s’ils étaient maudits
 - Certains villageois semblent entrer et sortir du temple très régulièrement (débloque **Sérum de vérité**)
 - Une vieille aveugle demande de l'argent aux passants.

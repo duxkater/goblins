@@ -1,0 +1,29 @@
+- règles pour valeurs de départ des ressources du clan
+- trouver valeur de base pour les compteurs de faction
+- possibilité de bosser pour des factions
+- La faim éternelle à équilibrer. Une chacun ou pas ?
+- à peu pret 45mn pour phase de préparation
+- peut-etre émergent : au début de chaque séance, raconter une anecdote sur les factions
+- laisser le choix du moment de repérage
+- joueurs un peu perdus en phase de repérage
+- une action pour évaluer / observer ?
+- pas forcément monter le repérage 1 par 1
+- possiblement echec critique double 1 
+- possible que le repérage influence le compteur de raid
+- option pour garder son perso
+- possible de rendre le deernier avancement optionnel
+- une table aléatoire de d100 pour les balafres des avancements à la pace d'une liste fixe
+- ajouter une stat cogier + l'associer a la magie
+- petite confusion entre foncer et eviter
+- peut etre remplacer éviter par cogiter
+- un profil alchimiste
+- influencer est useless
+- ajouter une phase libre après un raid
+- possiblement une phase d'exploration
+- les indices ne doivent pas être des objets
+- dans les villes, bosser beaucoup plus les lieux et pas les indices
+- préciser que les bonus +1 peuvent se lancer apres le jet pour sauver un jet à 6 ou 9
+- quand un perso se met à la retraite, son bonus est transmis à tout le clan
+- phase de repos => phase de clan
+- phase de victoire => phase finale
+- moins de villes rédigées et rédiger des conseils au MJ pour écrire des villes
