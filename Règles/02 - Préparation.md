@@ -10,7 +10,7 @@ Chaque joueur, MJ compris, crée une faction environnante, en dessine les contou
 Par exemple, voici un exemple de faction :  
 *Le duché de Montrevault*  
 - *Dirigé par le duc Richard de Montrevault, un opportuniste belliqueux.*  
-- *On y extrait du fer de bonne qualité, et son ragoût de carottes est renommé.*  
+- *On y extrait du fer de bonne qualité, et son ragoût de carottes est renommé.* 
 - *Le duc a des vues sur le comté voisin, et attend une occasion pour s’en emparer.*  
   
 Pour chaque faction, le MJ créé un compteur qui lui correspond, de 6 segments. Il commence à zéro. Ce compteur représente l’attention que porte cette faction au clan de gobelins. Plus le compteur est rempli, plus la faction prend la menace gobeline au sérieux et déploie des moyens pour s’en débarrasser.  
