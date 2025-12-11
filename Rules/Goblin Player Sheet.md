@@ -1,6 +1,6 @@
 ### **Name:**
 
-### **Trinket : **
+### **Trinket** :
 
 ### **Characteristics:**
 
@@ -9,7 +9,7 @@
 - [ ] Avoid (Condition: )
 - [ ] Observe (Condition: )
 - [ ] Influence (Condition: )
-### Experience:
+### **Experience**:
 
 *When you fail an action roll, check 1. On 6, check an advancement and start again at 0 XP.*
   
