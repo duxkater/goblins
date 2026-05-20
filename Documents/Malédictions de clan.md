@@ -13,6 +13,7 @@ Parfois, les esprits se manifestent lorsqu’un gobelin du clan touche un objet 
 Le grand mangeur poursuit les gobelins jusque dans leurs cauchemars. Parfois, ils croient l’apercevoir du coin de l'œil et sont paralysés par la peur.
 ## Le sang du peuple-serpent
 
+Avoir volé le calice du seigneur serpent était une mauvaise idée. Parfois, lorsqu’un gobelin saigne, il est repéré par le peuple serpent qui envoie une poignée de vipères mener l’enquête.
 ## Cendres de l’ancien feu
 
 Parfois, lorsqu’un gobelin touche un objet en bois, celui ci prend feu instantanément.

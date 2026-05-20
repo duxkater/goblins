@@ -14,8 +14,11 @@
 ### Lieux :
 
 - **La place centrale du village** : Une placette ronde au sol pavé, un arbre centenaire au centre, un petit marché organisé autour. Beaucoup de va-et-vient.
+	- **Peindre la scène** : Quels sont les signes que ce lieu est le plus fréquenté du village ?
 - **Le mur d'enceinte** : Un vieux mur de pierre fatigué par endroits. Des tours de guet en bois, chacune occupée par des guetteurs.
+	- **Peindre la scène :** Ce mur a autrefois subit les assauts de l'ennemi. Quels en sont les traces encore visibles ?
 - **La cloche d'alarme** : en haut d'une structure de bois de 2m de haut. Elle est fêlée.
+	- **Peindre la scène :** Quelles mesures ont prit les habitants pour faire tenir la structure en bois, qui menace de s'effondrer ?
 - **Le temple** : Un bâtiment en pierre décoré de tentures violettes. De la fumée d'encens sort des fenêtres.
 - **La taverne** : Une taverne en bois à l'entrée de la ville. Des rires s'en échappent. Il y a une écurie devant.
 ### Indices :

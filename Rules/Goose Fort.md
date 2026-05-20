@@ -33,6 +33,3 @@
 - **Forbidden tome**: Sometimes allows you to summon a small earth golem. Be careful not to forget any words.
 - **Serum of truth**: A vial of golden liquid. Once per scouting phase, force an NPC who drinks it to reveal a clue to you.
 - **Flock of trained geese**: The goblins capture a few geese from the village. Once per session, they can be used as a diversion.
-# Twist (GM only):
-
-The inhabitants of Fort-aux-oies are secretly worshippers of Zuul, the demon of a thousand words. Every night, they gather in the basement to pray and exchange forbidden secrets. If their cult is threatened, they will stop at nothing to protect their knowledge...
